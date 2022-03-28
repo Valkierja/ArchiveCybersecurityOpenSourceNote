@@ -9,6 +9,6 @@
 ## 关于上传
 
 * 如果原帖是以md语法记录的(或者原帖可以方便的得到**完全**兼容Github-md的记录形式)
-    请复制一份原帖然后添加到本仓库, 在第一行记录原帖地址, 第二行记录(webArchive)[https://archive.org/web/]永久存档地址
+    请复制一份原帖然后添加到本仓库, 在第一行记录原帖地址, 第二行记录[webArchive](https://archive.org/web/)永久存档地址
 
-* 如果原帖不是以md语法记录的, 请上传一份原帖开头部分的高清大图, 在第一行记录原帖地址, 第二行记录(webArchive)[https://archive.org/web/]永久存档地址
+* 如果原帖不是以md语法记录的, 请上传一份原帖开头部分的高清大图, 在第一行记录原帖地址, 第二行记录[webArchive](https://archive.org/web/)永久存档地址
