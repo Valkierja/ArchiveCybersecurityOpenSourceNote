@@ -1,4 +1,4 @@
-[https://developer.mozilla.org/zh-CN/docs/Glossary]()
+[https://developer.mozilla.org/zh-CN/docs/Glossary](原文链接)
 
 
-![](assets/images/e:/ArchiveCybersecurityOpenSourceNote/WEB/开发向/2022-04-02-21-07-59.png)
+![](assets/images/2022-04-02-21-14-51.png)
