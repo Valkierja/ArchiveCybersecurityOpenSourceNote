@@ -25,6 +25,7 @@ If the database resides on a ZFS file system, you should consult ZFS#Databases b
 ```
 
 然后安装ruby
+
 ```
 #下载安装脚本并执行
 curl -L get.rvm.io > rvm-install
