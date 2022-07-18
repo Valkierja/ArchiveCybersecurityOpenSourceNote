@@ -19,4 +19,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=fslongjin/This-repo-has-3-stars,KSroido/ArchiveCybersecurityOpenSourceNote&type=Date)](https://star-history.com/#fslongjin/This-repo-has-3-stars&KSroido/ArchiveCybersecurityOpenSourceNote&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=KSroido/ArchiveCybersecurityOpenSourceNote&type=Date)](https://star-history.com/#KSroido/ArchiveCybersecurityOpenSourceNote&Date)
