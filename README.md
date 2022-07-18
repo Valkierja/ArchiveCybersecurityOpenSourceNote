@@ -16,3 +16,7 @@
 ## 其他
 
 如果您觉得对您有帮助，麻烦给一颗star
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fslongjin/This-repo-has-3-stars,KSroido/ArchiveCybersecurityOpenSourceNote&type=Date)](https://star-history.com/#fslongjin/This-repo-has-3-stars&KSroido/ArchiveCybersecurityOpenSourceNote&Date)
